@@ -1,38 +1,43 @@
 languageCode = "en-us"
 publishDir = "docs"
-title = "Aerial"
 baseurl = "https://alyshahb.github.io/alyshahb/"
 theme = "aerial"
+title = "Alyshah B."
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "Alyshah B."
+  about = "Training &nbsp;&bull;&nbsp; Technology &nbsp;&bull;&nbsp; Travel"
+  copyright = "Alyshah B. | GitHub Pages | Google Domains | HTML5 UP | Hugo"
   #To disable the scrolling background, set bg_scroll to disable. To enable, leavebg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
 
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
+  [[params.social]]
+    medium = "Medium"
+    icon = "medium"
+    link = "https://medium.com/@alyshahb"
 
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
+  [[params.social]]
+    medium = "LinkedIn"
+    icon = "linkedin"
+    link = "https://www.linkedin.com/in/alyshahb"
 
-[[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  [[params.social]]
+    medium = "Facebook"
+    icon = "facebook"
+    link = "https://www.facebook.com/alyshahb"
 
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "#"
+  [[params.social]]
+    medium = "Twitter"
+    icon = "twitter"
+    link = "https://twitter.com/alyshahb"
 
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
+  [[params.social]]
+    medium = "Instagram"
+    icon = "instagram"
+    link = "https://www.instagram.com/alyshahb/"
+
+  [[params.social]]
+    medium = "Tumblr"
+    icon = "tumblr"
+    link = "http://alyshahb.tumblr.com/"
