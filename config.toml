@@ -1,4 +1,5 @@
 languageCode = "en-us"
+publishDir = "docs"
 title = "Aerial"
 baseurl = "http://example.org/"
 theme = "aerial"
