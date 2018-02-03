@@ -1,7 +1,7 @@
 languageCode = "en-us"
 publishDir = "docs"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "https://alyshahb.github.io/alyshahb/"
 theme = "aerial"
 
 [params]
